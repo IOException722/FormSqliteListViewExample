@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="nm">Name</string>
+    <string name="ln">Location</string>
+    <string name="dt">Detail</string>
+    <string name="amt">Amount</string>
+    <string name="btnl_txt">Save</string>
+    <string name="btnr_txt">Show</string>
+    <string name="title_activity_show_list">List of Transactions </string>
+
+
+
+</resources>
